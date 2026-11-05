@@ -9,5 +9,6 @@
   "url": "https://gmail.guidehollow.com/",
   "accent": "#B75443",
   "launchReady": true,
-  "adsReady": false
+  "adsReady": false,
+  "coupangEnabled": true
 }
