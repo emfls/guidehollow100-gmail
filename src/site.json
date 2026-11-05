@@ -3,12 +3,13 @@
   "short": "지메일",
   "section": "지메일",
   "slug": "gmail",
-  "hero": "메일 수신·발신·첨부파일 문제를 차근차근 점검하세요.",
-  "description": "지메일 수신·발신, 검색, 필터, 저장공간 문제에 대해 바로 확인할 수 있는 안내",
-  "pageTitle": "지메일 사용·문제 해결 가이드 | GuideHollow",
+  "hero": "이메일 mailto 링크 만들기",
+  "description": "메일 앱에 전달할 링크와 확인용 본문을 만듭니다. 메일은 전송하지 않습니다.",
+  "pageTitle": "이메일 mailto 링크 만들기 | GuideHollow",
   "url": "https://gmail.guidehollow.com/",
   "accent": "#B75443",
   "launchReady": true,
   "adsReady": false,
-  "coupangEnabled": true
+  "coupangEnabled": true,
+  "utilityEnabled": true
 }
